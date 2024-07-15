@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Meuca\\OneDrive\\Área de Trabalho\\BlackJack - Teste\\gente.csproj": {}
+    "C:\\Users\\Meuca\\OneDrive\\Documentos\\GitHub\\Back-From-Vacation\\gente.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Meuca\\OneDrive\\Área de Trabalho\\BlackJack - Teste\\gente.csproj": {
+    "C:\\Users\\Meuca\\OneDrive\\Documentos\\GitHub\\Back-From-Vacation\\gente.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Meuca\\OneDrive\\Área de Trabalho\\BlackJack - Teste\\gente.csproj",
+        "projectUniqueName": "C:\\Users\\Meuca\\OneDrive\\Documentos\\GitHub\\Back-From-Vacation\\gente.csproj",
         "projectName": "gente",
-        "projectPath": "C:\\Users\\Meuca\\OneDrive\\Área de Trabalho\\BlackJack - Teste\\gente.csproj",
+        "projectPath": "C:\\Users\\Meuca\\OneDrive\\Documentos\\GitHub\\Back-From-Vacation\\gente.csproj",
         "packagesPath": "C:\\Users\\Meuca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Meuca\\OneDrive\\Área de Trabalho\\BlackJack - Teste\\obj\\",
+        "outputPath": "C:\\Users\\Meuca\\OneDrive\\Documentos\\GitHub\\Back-From-Vacation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Meuca\\AppData\\Roaming\\NuGet\\NuGet.Config"
